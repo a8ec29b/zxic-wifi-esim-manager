@@ -1,6 +1,6 @@
-# Zxic Wi-Fi eSIM Manager
+# ZXIC Wi-Fi eSIM Manager
 
-中兴随身 Wi-Fi 的局域网管理面板，支持短信和 eSIM 管理。面板通过设备原厂后台管理短信，使用 [euicc-go](https://github.com/damonto/euicc-go) 和设备的 AT 接口管理 eSIM。
+中兴微随身 Wi-Fi 的局域网管理面板，支持短信和 eSIM(SGP.22) 管理。面板通过设备原厂后台管理短信，使用 [euicc-go](https://github.com/damonto/euicc-go) 和设备的 AT 接口管理 eSIM。
 
 ## 功能
 
