@@ -1,0 +1,13 @@
+[Match]
+Driver=cdc_ether
+Property=ID_VENDOR_ID=19d2
+
+[Network]
+DHCP=ipv4
+LinkLocalAddressing=ipv6
+IPv6AcceptRA=no
+
+[DHCPv4]
+UseRoutes=no
+UseDNS=no
+UseMTU=true
